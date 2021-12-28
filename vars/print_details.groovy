@@ -1,3 +1,3 @@
 def call(group_name,version,filetype){
-  echo "group is ${group_name} \n version is ${version} \n filetype is ${filetype}"
+  echo "group is ${group_name} \n versioning is ${version} \n type is ${filetype}"
 }
