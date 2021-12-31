@@ -1,4 +1,4 @@
-def call(group_name,version,filetype){
+def call(){
   
    def filepath='example/demo/java/spring.boot/1.2.0-snapshot'
    def version_filetype=filepath.split("/")[-1]
